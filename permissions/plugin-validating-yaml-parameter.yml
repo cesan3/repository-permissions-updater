@@ -1,0 +1,6 @@
+---
+name: "validating-yaml-parameter"
+paths:
+- "org/jenkins-ci/plugins/validating-yaml-parameter"
+developers:
+- "cesan3"
